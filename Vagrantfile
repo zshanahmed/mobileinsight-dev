@@ -19,11 +19,11 @@ gem install android-sdk-installer
 
 easy_install pip
 pip install cython==0.25.2
-pip install pyyaml
-pip install xmltodict
-pip install pyserial
-pip install virtualenv
-pip install virtualenvwrapper
+pip install pyyaml==5.3
+pip install xmltodict==0.12.0
+pip install pyserial==3.4
+pip install virtualenv==16.7.9
+pip install virtualenvwrapper==4.8.4
 
 SCRIPT
 
