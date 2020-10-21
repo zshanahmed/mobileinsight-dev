@@ -40,7 +40,7 @@ git clone https://github.com/zshanahmed/mobile-insight/mobileinsight-core.git
 git clone https://github.com/zshanahmed/mobile-insight/mobileinsight-mobile.git
 
 # Clone python-for-android repo
-git clone https://github.com/mobile-insight/python-for-android.git
+git clone https://github.com/zshanahmed/mobile-insight/python-for-android.git
 
 SCRIPT
 
