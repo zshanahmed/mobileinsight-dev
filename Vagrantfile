@@ -34,10 +34,10 @@ mkdir /home/vagrant/mi-dev
 cd /home/vagrant/mi-dev
 
 # Clone MobileInsight-core repo
-git clone https://github.com/mobile-insight/mobileinsight-core.git
+git clone https://github.com/zshanahmed/mobile-insight/mobileinsight-core.git
 
 # Clone MobileInsight-mobile repo
-git clone https://github.com/mobile-insight/mobileinsight-mobile.git
+git clone https://github.com/zshanahmed/mobile-insight/mobileinsight-mobile.git
 
 # Clone python-for-android repo
 git clone https://github.com/mobile-insight/python-for-android.git
