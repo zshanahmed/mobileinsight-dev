@@ -25,6 +25,12 @@ pip install pyserial==3.4
 pip install virtualenv==16.7.9
 pip install virtualenvwrapper==4.8.4
 
+# Libraries needed to run python for android
+pip install jinja2==2.10.3
+pip install sh==1.10
+pip install colorama==0.3.3
+pip install appdirs==1.4.3
+
 SCRIPT
 
 
